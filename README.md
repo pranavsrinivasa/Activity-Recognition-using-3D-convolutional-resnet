@@ -21,3 +21,7 @@ https://github.com/pranavsrinivasa/Activity-Recognition-using-3D-convolutional-r
 
 Link to kaggle code : 
 https://www.kaggle.com/code/pr4nav101/action-recognition-using-3dresnet/notebook
+
+
+## DRIVE LINK TO ALL THE TRAINED H5 MODELS :
+https://drive.google.com/drive/folders/13nNM8t-DlXiE2NnStP1v8RoNULbkvYuw?usp=sharing
